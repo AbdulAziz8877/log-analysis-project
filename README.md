@@ -23,3 +23,12 @@ Once installed, you can run the tool to analyze your log files:
    ```bash
    python log_analysis.py
 
+**Technologies Used**:
+   Python: For scripting the log analysis logic.
+Regular Expressions (Regex): Used for parsing the log files.
+CSV Module: For exporting the analysis results.
+
+**Contributing**
+Contributions are welcome! If you have suggestions or improvements, please fork the     repository and submit a pull request. You can also open an issue if you find any bugs or    have feature requests.
+   
+
